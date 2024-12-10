@@ -1,0 +1,6 @@
+- Open project in Qt Creator.
+- This will download artifacts and embedder in folder download.
+- From downloaded embedder flutter_embedder.h, flutter_engine.dll.lib and LICENSE.embedder to flutter_engine directory
+- Build the project.
+- From downloaded artifacts icudtl.dat from downloaded artifacts inside build directory.
+- Run with the path to dart assets as first argument
